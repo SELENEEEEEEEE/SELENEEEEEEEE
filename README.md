@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SELENEEEEEEEE
 - 👀 I’m interested in ... Web Developing
 - 🌱 I’m currently learning ... JAVA (for class)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? IG: fa
+- 💞️ I’m looking to collaborate on: N/A
+- 📫 How to reach me: N/A
 - 😄 Pronouns: She/her
 
 <!---
